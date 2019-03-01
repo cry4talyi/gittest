@@ -10,5 +10,6 @@ public class test {
         System.out.println("gitTest");
 //  pull测试
         System.out.println("冲突测试");
+        System.out.println("冲突测试2");
     }
 }
