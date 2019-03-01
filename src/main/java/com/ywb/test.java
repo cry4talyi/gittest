@@ -9,5 +9,6 @@ public class test {
     public static void main(String[] args) {
         System.out.println("gitTest");
 //  pull测试
+        System.out.println("冲突测试");
     }
 }
